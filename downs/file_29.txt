@@ -1,0 +1,1503 @@
+<!DOCTYPE html>
+<html  lang="ca" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-131032000-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<meta name="title" content="Primera convocatòria 2024 | Xanascat, la xarxa jove d&#039;albergs de Catalunya" />
+<link rel="canonical" href="http://xanascat.gencat.cat/ca/programes/vacances-en-familia/primera-convocatoria-2024" />
+<meta name="description" content="Consulteu els torns que participen en la 1a convocatòria 2024, des del mes de gener fins al mes de juny.
+IMPORTANT: Per a obtenir un millor resultat en la cerca de torns disponibles, us recomanem que cerqueu per alberg i/o tipologia d&#039;estada. En el cas que tingueu molt clares les dates de la vostra estada, també podeu fer la cerca a través del calendari, però haureu de seleccionar els dies concrets del cap de setmana o pont. " />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script>function euCookieComplianceLoadScripts() {}</script>
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #DAECF7} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #438DBE;} .eu-cookie-withdraw-tab { border-color: #438DBE;}#sliding-popup.sliding-popup-top { position: fixed; }</style>
+<link rel="shortcut icon" href="/sites/default/files/Favicon_%2864x64px%29_2.png" type="image/png" />
+<link rel="alternate" hreflang="ca" href="http://xanascat.gencat.cat/ca/programes/vacances-en-familia/primera-convocatoria-2024" />
+<link rel="revision" href="http://xanascat.gencat.cat/ca/programes/vacances-en-familia/primera-convocatoria-2024" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+
+    <title>Primera convocatòria 2024 | Xanascat, la xarxa jove d&#039;albergs de Catalunya</title>
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/datepicker.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/slider.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/modules/contrib/eu_cookie_compliance/css/eu_cookie_compliance.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/modules/contrib/addtoany/css/addtoany.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/modules/contrib/simple_popup_blocks/css/simple_popup_blocks.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/modules/contrib/extlink/extlink.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/modules/webform_bootstrap/css/webform_bootstrap.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/modules/contrib/better_exposed_filters/css/better_exposed_filters.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?s1w2om" />
+<link rel="stylesheet" media="all" href="/themes/custom/mysubtheme/css/style.css?s1w2om" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" />
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+    <!-- Global site tag (gtag.js) - Google Ads: 1012600507 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-1012600507"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-1012600507');
+    </script>
+    <!-- Event snippet for Botó reserva ara la teva escapada! conversion page
+    In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+    <script>
+      function gtag_report_conversion(url) {
+        var callback = function () {
+          if (typeof(url) != 'undefined') {
+            window.location = url;
+          }
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-1012600507/lzDsCImayJIBELud7OID',
+            'event_callback': callback
+        });
+        return false;
+      }
+    </script>
+    <!-- Event snippet for Fes la teva reserva aquí conversion page
+    In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+    <script>
+      function gtag_report_conversion(url) {
+        var callback = function () {
+          if (typeof(url) != 'undefined') {
+            window.location = url;
+          }
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-1012600507/ZS33COrrzpIBELud7OID',
+            'event_callback': callback
+        });
+        return false;
+      }
+    </script>
+
+    
+    
+
+  </head>
+  <body class="path-node page-node-type-calls has-glyphicons">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Vés al contingut
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+              <header class="navbar navbar-default container-fluid negre" id="navbar" role="banner">
+      <div class="row">
+        <div class="container">
+                    <div class="navbar-header">
+            
+                                      <div class="col-md-6 col-sm-12 col-xs-12 column sitename-mobile hidden-md hidden-lg">
+                <div class="row">
+                  <div class="col-md-3 col-xs-2 coloca">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                      <span class="sr-only">Toggle navigation</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                    </button>
+                  </div>
+                  <div class="col-md-3 col-xs-8">
+                    <h1>Xanascat</h1>
+                  </div>
+                  <div class="col-md-3 col-xs-2 column hidden-ls coloca1">
+                    <button onclick="amunt();" type="button" title="Cerca" class="ico_cerca collapsed"
+                            data-toggle="collapse" data-target=".dos"></button>
+                  </div>
+                </div>
+
+              </div>
+                      </div>
+          <div class="hidden-ls header-search dos collapse">
+            <form class="search-block-form" data-drupal-selector="search-block-form" action="/ca/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group">
+      <label for="edit-keys" class="control-label sr-only">Cerca</label>
+  
+  
+  <div class="input-group"><input title="Introduïu els termes que voleu cercar." data-drupal-selector="edit-keys" class="form-search form-control" placeholder="Cerca" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" data-toggle="tooltip" /><span class="input-group-btn"><button type="submit" value="Cerca" class="button js-form-submit form-submit btn-primary btn icon-only" name=""><span class="sr-only">Cerca</span><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div>
+
+  
+  
+  </div>
+<div class="form-actions form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"></div>
+
+</form>
+
+          </div>
+
+                                <div id="navbar-collapse" class="navbar-collapse collapse">
+              <div class="row">
+                <div class="col-lg-7 col-md-6 col-sm-12 col-xs-12 column logo-mobile hidden-md hidden-lg">
+                  <a class="img-responsive logo" title="Generalitat de Catalunya" href="http://web.gencat.cat"
+                     target="_blank"><img src="/themes/custom/mysubtheme/logo_generalitat.png"/></a>
+                  <button class="menu_tancar visible-xs collapsed" data-target=".navbar-collapse" data-toggle="collapse"
+                          title="Tanca"></button>
+                </div>
+                <div class="col-lg-7 col-md-6 col-sm-4 column logo-desktop hidden-sm hidden-xs">
+                  <a class="img-responsive logo" title="Generalitat de Catalunya" href="http://web.gencat.cat"
+                     target="_blank"><img src="/themes/custom/mysubtheme/logo_generalitat.png"/></a>
+                </div>
+
+                <div class="col-lg-5 col-md-6 col-sm-8 column hidden-xs hidden-sm hidden-mg right-logo">
+                  
+                  <div class="header-search">
+                    <form class="search-block-form" data-drupal-selector="search-block-form" action="/ca/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group">
+      <label for="edit-keys" class="control-label sr-only">Cerca</label>
+  
+  
+  <div class="input-group"><input title="Introduïu els termes que voleu cercar." data-drupal-selector="edit-keys" class="form-search form-control" placeholder="Cerca" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" data-toggle="tooltip" /><span class="input-group-btn"><button type="submit" value="Cerca" class="button js-form-submit form-submit btn-primary btn icon-only" name=""><span class="sr-only">Cerca</span><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div>
+
+  
+  
+  </div>
+<div class="form-actions form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"></div>
+
+</form>
+
+                  </div>
+                </div>
+              </div>
+              <div class="row hidden-xs hidden-sm site-name">
+                <div class="col-xs-12">
+                                    <h1>Xanascat, la xarxa jove d&#039;albergs de Catalunya</h1>
+                </div>
+              </div>
+                <div class="region region-navigation-collapsible">
+      <nav role="navigation" aria-labelledby="block-mysubtheme-navegacioprincipal-menu" id="block-mysubtheme-navegacioprincipal">
+                      
+    <h2 class="visually-hidden" id="block-mysubtheme-navegacioprincipal-menu">Navegació principal</h2>
+    
+
+              
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/ca/inici" data-drupal-link-system-path="node/1">Inici</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Albergs <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/ca/albergs/albergs" data-drupal-link-system-path="node/1071">Albergs</a>
+              </li>
+                      <li class="expanded dropdown">
+                                        <a href="/ca/albergs/albergs/tarifes" data-drupal-link-system-path="node/23">Tarifes</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/ca/albergs/tarifes/promocions" data-drupal-link-system-path="node/25">Promocions</a>
+              </li>
+                      <li>
+                                        <a href="/ca/albergs/tarifes/preguntes-frequents" data-drupal-link-system-path="node/26">Preguntes freqüents</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/albergs/tarifes/condicions-generals" data-drupal-link-system-path="node/3376">Condicions generals</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/ca/albergs/albergs-sostenibles" data-drupal-link-system-path="node/7297">Albergs sostenibles</a>
+              </li>
+                      <li>
+                                        <a href="/ca/albergs/gastronomia" data-drupal-link-system-path="node/18">Gastronomia</a>
+              </li>
+                      <li>
+                                        <a href="/ca/albergs/allergies-i-intolerancies-alimentaries" data-drupal-link-system-path="node/7871">Al·lèrgies i intoleràncies alimentàries</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/albergs/amics-dels-animals" data-drupal-link-system-path="node/32">Amics dels animals</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/ca/experiencies" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/33">Experiències <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="expanded dropdown first">
+                                        <a href="/ca/experiencies" class="false-parent" data-drupal-link-system-path="node/33">Experiències</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/ca/experiencies/culturals" data-drupal-link-system-path="taxonomy/term/12">Culturals</a>
+              </li>
+                      <li>
+                                        <a href="/ca/experiencies/gastronomiques" data-drupal-link-system-path="taxonomy/term/13">Gastronòmiques</a>
+              </li>
+                      <li>
+                                        <a href="/ca/experiencies/tradicions-i-festes" data-drupal-link-system-path="taxonomy/term/14">Tradicions i festes</a>
+              </li>
+                      <li>
+                                        <a href="/ca/experiencies/esports-i-aventura" data-drupal-link-system-path="taxonomy/term/15">Esports i aventura</a>
+              </li>
+                      <li>
+                                        <a href="/ca/experiencies/lleure-i-oci" data-drupal-link-system-path="taxonomy/term/16">Lleure i oci</a>
+              </li>
+                      <li>
+                                        <a href="/ca/experiencies/naturals" data-drupal-link-system-path="taxonomy/term/17">Naturals</a>
+              </li>
+                      <li>
+                                        <a href="/ca/experiencies/qalbergs" data-drupal-link-system-path="taxonomy/term/18">+qAlbergs</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/experiencies/esc-neu" data-drupal-link-system-path="taxonomy/term/19">ESC Neu</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/ca/experiencies/agenda" data-drupal-link-system-path="node/52">Agenda</a>
+              </li>
+                      <li class="expanded dropdown last">
+                                        <a href="/ca/experiencies/a-qui-ens-dirigim" data-drupal-link-system-path="node/61">A qui ens dirigim</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/ca/experiencies/a-qui-ens-dirigim/joves" data-drupal-link-system-path="node/62">Joves</a>
+              </li>
+                      <li>
+                                        <a href="/ca/experiencies/a-qui-ens-dirigim/families" data-drupal-link-system-path="node/63">Famílies</a>
+              </li>
+                      <li>
+                                        <a href="/ca/experiencies/a-qui-ens-dirigim/centres-educatius" data-drupal-link-system-path="node/64">Centres Educatius</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/experiencies/a-qui-ens-dirigim/entitats" data-drupal-link-system-path="node/65">Entitats</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown active active-trail">
+                                                                    <a href="" class="dropdown-toggle active-trail" data-toggle="dropdown">Programes <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/ca/programes" class="false-parent" data-drupal-link-system-path="node/35">Programes</a>
+              </li>
+                      <li class="expanded dropdown">
+                                        <a href="/ca/programes/colonies-destiu-en-familia" data-drupal-link-system-path="node/10384">Colònies d&#039;estiu en família</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/ca/programes/colonies-destiu-en-familia/els-torns-colonies-destiu-en-familia" data-drupal-link-system-path="node/10380">Els torns - Colònies d’estiu en família</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/colonies-destiu-en-familia/les-activitats-colonies-destiu-en-familia" data-drupal-link-system-path="node/10379">Les activitats - Colònies d&#039;estiu en família</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/colonies-destiu-en-familia/preus-colonies-destiu-en-familia" data-drupal-link-system-path="node/10389">Preus - Colònies d’estiu en família</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/colonies-destiu-en-familia/inscripcions-colonies-destiu-en-familia" data-drupal-link-system-path="node/10381">Inscripcions - Colònies d&#039;estiu en família</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/colonies-destiu-en-familia/condicions-generals-colonies-destiu-en-familia" data-drupal-link-system-path="node/10382">Condicions generals - Colònies d&#039;estiu en família</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/programes/colonies-destiu-en-familia/preguntes-frequents-colonies-destiu-en-familia" data-drupal-link-system-path="node/10383">Preguntes freqüents - Colònies d&#039;estiu en família</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown active active-trail">
+                                        <a href="/ca/programes/vacances-en-familia" class="active-trail" data-drupal-link-system-path="node/2113">Vacances en família</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/ca/programes/vacances-en-familia/benvinguda-familia" data-drupal-link-system-path="node/3357">Benvinguda família</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/els-gossos-tambe-es-mereixen-unes-vacances-en-familia" data-drupal-link-system-path="node/3732">Els gossos també es mereixen unes Vacances en família!</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/convocatories" data-drupal-link-system-path="node/1356">Convocatòries</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/albergs" data-drupal-link-system-path="node/3354">Albergs</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/preinscripcio" data-drupal-link-system-path="node/1361">Preinscripció</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/tarifes-i-avantatges-especials" data-drupal-link-system-path="node/1362">Tarifes i avantatges especials</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/faqs" data-drupal-link-system-path="node/3366">FAQs</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/programes/vacances-en-familia/condicions-de-participacio" data-drupal-link-system-path="node/1363">Condicions de participació</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                        <a href="/ca/programes/lestiu-es-teu" data-drupal-link-system-path="node/1146">L&#039;estiu és teu</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/ca/programes/lestiu-es-teu/que-es" data-drupal-link-system-path="node/1031">Què és?</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/lestiu-es-teu/novetats-estiu-es-teu-2023" title="Novetats Estiu és teu 2023" data-drupal-link-system-path="node/8556">Novetats 2023</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/lestiu-es-teu/torns" data-drupal-link-system-path="node/1145">Torns</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/lestiu-es-teu/families" data-drupal-link-system-path="node/1058">Famílies</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/lestiu-es-teu/albergs" data-drupal-link-system-path="node/1330">Albergs</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/lestiu-es-teu/inscripcions" data-drupal-link-system-path="node/1030">Inscripcions</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/lestiu-es-teu/condicions-de-participacio" data-drupal-link-system-path="node/1078">Condicions de participació</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/lestiu-es-teu/faqs" data-drupal-link-system-path="node/1079">FAQs</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/programes/lestiu-es-teu/blogs" data-drupal-link-system-path="node/9709">Blogs</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                        <a href="/ca/programes/una-eina-al-servei-de-lescola" data-drupal-link-system-path="node/4657">Una eina al servei de l’escola</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/ca/programes/una-eina-al-servei-de-lescola/presentacio" data-drupal-link-system-path="node/5698">Presentació</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/una-eina-al-servei-de-lescola/la-xanascat-una-xarxa-dalbergs-tots-i-totes" data-drupal-link-system-path="node/5700">La Xanascat, una xarxa d’albergs per a tots i totes</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/una-eina-al-servei-de-lescola/des-que-et-lleves-fins-que-ten-vas-dormir" data-drupal-link-system-path="node/5699">Des que et lleves fins que te’n vas a dormir</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/una-eina-al-servei-de-lescola/allergies-i-intolerancies-alimentaries-escolar" data-drupal-link-system-path="node/10388">Al·lèrgies i intoleràncies alimentàries escolar</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/programes/una-eina-al-servei-de-lescola/condicions-generals" data-drupal-link-system-path="node/5701">Condicions generals</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/ca/programes/escola-de-neu" data-drupal-link-system-path="node/466">Escola de Neu</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/descobreix-catalunya" data-drupal-link-system-path="node/465">Descobreix Catalunya</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/camps-i-entorns-daprenentatge" data-drupal-link-system-path="node/464">Activitats complementàries als CdA</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/residencies-destudiants" data-drupal-link-system-path="node/468">Residències d&#039;estudiants</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/programes-especialitzats-grups" data-drupal-link-system-path="node/467">Programes especialitzats per grups</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/xanascat-entitats" data-drupal-link-system-path="node/470">Xanascat Entitats</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/programes/programa-mida" data-drupal-link-system-path="node/28">Programa a mida</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/ca/noticies" data-drupal-link-system-path="node/34">Notícies</a>
+              </li>
+                      <li class="expanded dropdown last">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">Qui som <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/ca/qui-som" class="false-parent" data-drupal-link-system-path="node/359">Qui som</a>
+              </li>
+                      <li>
+                                        <a href="/ca/qui-som/el-compromis-social" data-drupal-link-system-path="node/4">El compromís social</a>
+              </li>
+                      <li>
+                                        <a href="/ca/qui-som/qualitat-i-seguretat" data-drupal-link-system-path="node/17">Qualitat i seguretat</a>
+              </li>
+                      <li class="expanded dropdown">
+                                        <a href="/ca/qui-som/carnet-dalberguista" data-drupal-link-system-path="node/16">Carnet d&#039;alberguista</a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/ca/qui-som/carnet-dalberguista/fer-sel" data-drupal-link-system-path="node/19">On fer-se&#039;l</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/qui-som/carnet-dalberguista/avantatges" data-drupal-link-system-path="node/20">Avantatges</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/ca/qui-som/hostelling-internacional" data-drupal-link-system-path="node/15">Hostelling Internacional</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/qui-som/contacta-amb-nosaltres" data-drupal-link-system-path="node/14">Contacta amb nosaltres</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+    
+  </nav>
+
+  </div>
+
+              <div class="language-switcher-mobile hidden-md hidden-lg">
+                
+              </div>
+            </div>
+                          </div>
+      </div>
+    </header>
+  
+  <div role="main" class="main-container container-fluid js-quickedit-main-content">
+    <div class="row">
+      <div class="container">
+        <div class="row">
+                                          <div class="col-sm-12" role="heading">
+              <div class="third-level-menu">
+                                                                                    <div class="navbar-header">
+                                                                                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                              data-target="#navbar-collapse-2">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="third-level-menu-icon"></span>
+                      </button>
+                                                                                      <h3 class="page-title">Primera convocatòria 2024</h3>
+                                                            </div>
+
+                  <div id="navbar-collapse-2" class="navbar-collapse collapse">
+                    
+                                            <div class="region region-header">
+      <nav role="navigation" aria-labelledby="block-mysubtheme-navegacioprincipal-3-menu" id="block-mysubtheme-navegacioprincipal-3">
+                      
+    <h2 class="visually-hidden" id="block-mysubtheme-navegacioprincipal-3-menu">Navegació tercer nivell</h2>
+    
+
+              
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/ca/programes/vacances-en-familia/benvinguda-familia" data-drupal-link-system-path="node/3357">Benvinguda família</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/els-gossos-tambe-es-mereixen-unes-vacances-en-familia" data-drupal-link-system-path="node/3732">Els gossos també es mereixen unes Vacances en família!</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/convocatories" data-drupal-link-system-path="node/1356">Convocatòries</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/albergs" data-drupal-link-system-path="node/3354">Albergs</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/preinscripcio" data-drupal-link-system-path="node/1361">Preinscripció</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/tarifes-i-avantatges-especials" data-drupal-link-system-path="node/1362">Tarifes i avantatges especials</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/faqs" data-drupal-link-system-path="node/3366">FAQs</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/programes/vacances-en-familia/condicions-de-participacio" data-drupal-link-system-path="node/1363">Condicions de participació</a>
+              </li>
+        </ul>
+  
+
+    
+  </nav>
+  <nav role="navigation" aria-labelledby="block-mysubtheme-navegacioprincipal-2-menu" id="block-mysubtheme-navegacioprincipal-2">
+                      
+    <h2 class="visually-hidden" id="block-mysubtheme-navegacioprincipal-2-menu">Navegació segond nivell</h2>
+    
+
+              
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="first">
+                                        <a href="/ca/programes" class="false-parent" data-drupal-link-system-path="node/35">Programes</a>
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/ca/programes/colonies-destiu-en-familia" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/10384">Colònies d&#039;estiu en família <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/ca/programes/colonies-destiu-en-familia/els-torns-colonies-destiu-en-familia" data-drupal-link-system-path="node/10380">Els torns - Colònies d’estiu en família</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/colonies-destiu-en-familia/les-activitats-colonies-destiu-en-familia" data-drupal-link-system-path="node/10379">Les activitats - Colònies d&#039;estiu en família</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/colonies-destiu-en-familia/preus-colonies-destiu-en-familia" data-drupal-link-system-path="node/10389">Preus - Colònies d’estiu en família</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/colonies-destiu-en-familia/inscripcions-colonies-destiu-en-familia" data-drupal-link-system-path="node/10381">Inscripcions - Colònies d&#039;estiu en família</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/colonies-destiu-en-familia/condicions-generals-colonies-destiu-en-familia" data-drupal-link-system-path="node/10382">Condicions generals - Colònies d&#039;estiu en família</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/programes/colonies-destiu-en-familia/preguntes-frequents-colonies-destiu-en-familia" data-drupal-link-system-path="node/10383">Preguntes freqüents - Colònies d&#039;estiu en família</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown active active-trail">
+                                                                    <a href="/ca/programes/vacances-en-familia" class="dropdown-toggle active-trail" data-toggle="dropdown" data-drupal-link-system-path="node/2113">Vacances en família <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/ca/programes/vacances-en-familia/benvinguda-familia" data-drupal-link-system-path="node/3357">Benvinguda família</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/els-gossos-tambe-es-mereixen-unes-vacances-en-familia" data-drupal-link-system-path="node/3732">Els gossos també es mereixen unes Vacances en família!</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/convocatories" data-drupal-link-system-path="node/1356">Convocatòries</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/albergs" data-drupal-link-system-path="node/3354">Albergs</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/preinscripcio" data-drupal-link-system-path="node/1361">Preinscripció</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/tarifes-i-avantatges-especials" data-drupal-link-system-path="node/1362">Tarifes i avantatges especials</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/vacances-en-familia/faqs" data-drupal-link-system-path="node/3366">FAQs</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/programes/vacances-en-familia/condicions-de-participacio" data-drupal-link-system-path="node/1363">Condicions de participació</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/ca/programes/lestiu-es-teu" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/1146">L&#039;estiu és teu <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/ca/programes/lestiu-es-teu/que-es" data-drupal-link-system-path="node/1031">Què és?</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/lestiu-es-teu/novetats-estiu-es-teu-2023" title="Novetats Estiu és teu 2023" data-drupal-link-system-path="node/8556">Novetats 2023</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/lestiu-es-teu/torns" data-drupal-link-system-path="node/1145">Torns</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/lestiu-es-teu/families" data-drupal-link-system-path="node/1058">Famílies</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/lestiu-es-teu/albergs" data-drupal-link-system-path="node/1330">Albergs</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/lestiu-es-teu/inscripcions" data-drupal-link-system-path="node/1030">Inscripcions</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/lestiu-es-teu/condicions-de-participacio" data-drupal-link-system-path="node/1078">Condicions de participació</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/lestiu-es-teu/faqs" data-drupal-link-system-path="node/1079">FAQs</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/programes/lestiu-es-teu/blogs" data-drupal-link-system-path="node/9709">Blogs</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/ca/programes/una-eina-al-servei-de-lescola" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/4657">Una eina al servei de l’escola <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/ca/programes/una-eina-al-servei-de-lescola/presentacio" data-drupal-link-system-path="node/5698">Presentació</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/una-eina-al-servei-de-lescola/la-xanascat-una-xarxa-dalbergs-tots-i-totes" data-drupal-link-system-path="node/5700">La Xanascat, una xarxa d’albergs per a tots i totes</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/una-eina-al-servei-de-lescola/des-que-et-lleves-fins-que-ten-vas-dormir" data-drupal-link-system-path="node/5699">Des que et lleves fins que te’n vas a dormir</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/una-eina-al-servei-de-lescola/allergies-i-intolerancies-alimentaries-escolar" data-drupal-link-system-path="node/10388">Al·lèrgies i intoleràncies alimentàries escolar</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/programes/una-eina-al-servei-de-lescola/condicions-generals" data-drupal-link-system-path="node/5701">Condicions generals</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li>
+                                        <a href="/ca/programes/escola-de-neu" data-drupal-link-system-path="node/466">Escola de Neu</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/descobreix-catalunya" data-drupal-link-system-path="node/465">Descobreix Catalunya</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/camps-i-entorns-daprenentatge" data-drupal-link-system-path="node/464">Activitats complementàries als CdA</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/residencies-destudiants" data-drupal-link-system-path="node/468">Residències d&#039;estudiants</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/programes-especialitzats-grups" data-drupal-link-system-path="node/467">Programes especialitzats per grups</a>
+              </li>
+                      <li>
+                                        <a href="/ca/programes/xanascat-entitats" data-drupal-link-system-path="node/470">Xanascat Entitats</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/programes/programa-mida" data-drupal-link-system-path="node/28">Programa a mida</a>
+              </li>
+        </ul>
+  
+
+    
+  </nav>
+
+  </div>
+
+                                      </div>
+                
+                                
+              </div>
+            </div>
+                            </div>
+      </div>
+
+      <div class="header-main">
+    
+    <div class="container">
+        <div class="row">
+            <div class="title-description col-sm-12">
+
+                                                                    
+            </div>
+        </div>
+
+    </div>
+</div>      
+      <div class="container">
+        <div class="row">
+                            </div>
+      </div>
+
+      <div class="container">
+        <div class="row">
+                                              <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+                              </div>
+                
+                        <div class="row">
+          <section id="node-10942">
+                                      <a id="main-content"></a>
+              <div class="col-sm-7 col-xs-12">
+                <section id="block-mysubtheme-breadcrumbs" class="block block-system block-system-breadcrumb-block clearfix">
+  
+      <h2 class="block-title"></h2>
+    
+
+          <ol class="breadcrumb">
+          <li >
+                  <a href="/ca">Inici</a>
+              </li>
+          <li >
+                  <a href="/ca/programes">Programes</a>
+              </li>
+          <li >
+                  <a href="/ca/programes/vacances-en-familia">Vacances en família</a>
+              </li>
+          <li  class="active">
+                  Primera convocatòria 2024
+              </li>
+      </ol>
+
+  </section>
+
+
+              </div>
+              <div class="col-sm-5 col-xs-12">
+                                  <section id="block-addtoanybuttons" class="block block-addtoany block-addtoany-block clearfix">
+  
+    
+
+      <span class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://xanascat.gencat.cat/ca/programes/vacances-en-familia/primera-convocatoria-2024" data-a2a-title="Primera convocatòria 2024"><a class="a2a_button_twitter"></a><a class="a2a_button_facebook"></a><a class="a2a_button_whatsapp"></a><a class="email share" href="/ca/compartir?subject=Primera convocatòria 2024&body=Mira aquesta pàgina http://xanascat.gencat.cat/ca/programes/vacances-en-familia/primera-convocatoria-2024&destination=/node/1"><img alt="Email" src="/sites/default/files/icones/NG_ico_enviaemail.png"></a></span>
+  </section>
+
+
+                              </div>
+              <div class="col-sm-12 col-xs-12">
+                  <div class="region region-content">
+    <article role="article" class="calls is-promoted full clearfix">
+
+  
+    
+
+  
+  <div class="content">
+    
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p>Consulteu els torns que participen en la 1a convocatòria 2024, des del mes de gener fins al mes de juny.</p>
+<p><strong>IMPORTANT: </strong>Per a obtenir un millor resultat en la cerca de torns disponibles, us recomanem que cerqueu per alberg i/o tipologia d'estada. En el cas que tingueu molt clares les dates de la vostra estada, també podeu fer la cerca a través del calendari, però haureu de seleccionar els dies concrets del cap de setmana o pont. </p>
+</div>
+      
+      <div class="field field--name-field-paragraphs-header field--type-entity-reference-revisions field--label-hidden field--items">
+              <div class="field--item">
+
+  <div class="paragraph paragraph--type--paragraph paragraph--view-mode--default">
+                  </div>
+</div>
+          </div>
+  
+      <div class="field field--name-field-paragraphs field--type-entity-reference-revisions field--label-hidden field--items">
+              <div class="field--item">  <div class="paragraph paragraph--type--view-reference paragraph--view-mode--default">
+                  
+            <div class="field field--name-field-reference-view field--type-viewsreference field--label-hidden field--item"><div class="viewsreference--view-title">
+    Torn
+</div>
+<div class="views-element-container form-group">
+<div class="view view-turn view-id-turn view-display-id-block_2 js-view-dom-id-19189729f9500e2ef13726f2540c8113d0702a803000d9e3669ea5c2be981ae4">
+  
+    
+        <div class="view-filters form-group">
+      <form class="views-exposed-form bef-exposed-form" data-drupal-selector="views-exposed-form-turn-block-2" action="/ca/programes/vacances-en-familia/primera-convocatoria-2024" method="get" id="views-exposed-form-turn-block-2" accept-charset="UTF-8">
+  <div class="form--inline form-inline clearfix">
+      <div class="form-item js-form-item form-type-select js-form-type-select form-item-field-hostel-target-id-verf js-form-item-field-hostel-target-id-verf form-group">
+      <label for="edit-field-hostel-target-id-verf" class="control-label">Albergs</label>
+  
+  
+  <div class="select-wrapper"><select data-drupal-selector="edit-field-hostel-target-id-verf" class="form-select form-control" id="edit-field-hostel-target-id-verf" name="field_hostel_target_id_verf"><option
+            value="All" selected="selected">- Qualsevol -</option><option
+            value="5889">Alberg Municipal de Tivissa</option><option
+            value="718">Anna Maria Janer</option><option
+            value="610">Banyoles</option><option
+            value="313">Cabrera de Mar Xanascat </option><option
+            value="295">Coma-ruga Xanascat </option><option
+            value="5916">Els Josepets - Les Cases d’Alcanar</option><option
+            value="646">Era Garona</option><option
+            value="241">L&#039;Escala Xanascat</option><option
+            value="232">L&#039;Espluga de Francolí Xanascat</option><option
+            value="259">La Molina Xanascat</option><option
+            value="745">La Sala</option><option
+            value="250">La Seu d’Urgell Xanascat</option><option
+            value="2159">Les Estades</option><option
+            value="214">Manresa Xanascat</option><option
+            value="1107">Mas de la Coixa</option><option
+            value="736">Montsec-Mur</option><option
+            value="993">Municipal de Joventut de Vilafranca del Penedès</option><option
+            value="205">Núria Xanascat </option><option
+            value="196">Olot Xanascat</option><option
+            value="187">Planoles Xanascat</option><option
+            value="178">Poblenou del Delta Xanascat</option><option
+            value="664">Rectoria la Selva</option><option
+            value="3404">Sant Joan de les Abadesses Xanascat</option><option
+            value="160">Tremp Xanascat </option><option
+            value="808">Vall d&#039;en Bas Xanascat</option><option
+            value="169">Vic Xanascat </option><option
+            value="673">Viladoms de Baix</option></select></div>
+
+  
+  
+  </div>
+<div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-field-start-end-dates-value js-form-item-field-start-end-dates-value form-group">
+      <label for="edit-field-start-end-dates-value" class="control-label">Data d'inici</label>
+  
+  
+  <input class="bef-datepicker datepicker-text form-text form-control" placeholder="dd/mm/aaaa" data-drupal-selector="edit-field-start-end-dates-value" type="text" id="edit-field-start-end-dates-value" name="field_start_end_dates_value" value="" size="30" maxlength="128" />
+
+  
+  
+  </div>
+<div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-field-start-end-dates-end-value js-form-item-field-start-end-dates-end-value form-group">
+      <label for="edit-field-start-end-dates-end-value" class="control-label">Data final</label>
+  
+  
+  <input class="bef-datepicker datepicker-text form-text form-control" placeholder="dd/mm/aaaa" data-drupal-selector="edit-field-start-end-dates-end-value" type="text" id="edit-field-start-end-dates-end-value" name="field_start_end_dates_end_value" value="" size="30" maxlength="128" />
+
+  
+  
+  </div>
+<div class="form-item js-form-item form-type-select js-form-type-select form-item-field-taxon-stay-type-target-id js-form-item-field-taxon-stay-type-target-id form-group">
+      <label for="edit-field-taxon-stay-type-target-id" class="control-label">Tipus d’estada</label>
+  
+  
+  <div class="select-wrapper"><select data-drupal-selector="edit-field-taxon-stay-type-target-id" class="form-select form-control" id="edit-field-taxon-stay-type-target-id" name="field_taxon_stay_type_target_id"><option
+            value="All" selected="selected">- Qualsevol -</option><option
+            value="302">Cap de setmana - Temporada alta</option><option
+            value="365">Setmana Santa 1 - Temporada alta</option><option
+            value="363">Setmana Santa 1 - Temporada mitja</option><option
+            value="366">Setmana Santa 2 - Temporada alta</option><option
+            value="364">Setmana Santa 2 - Temporada mitja</option><option
+            value="347">Cap de setmana - Temporada baixa</option><option
+            value="348">Cap de setmana - Temporada mitja</option><option
+            value="359">Estiu - Temporada alta</option><option
+            value="358">Estiu - Temporada mitja</option><option
+            value="349">Pont - Temporada alta</option><option
+            value="350">Pont - Temporada baixa</option><option
+            value="304">Pont  - Temporada mitja</option></select></div>
+
+  
+  
+  </div>
+<div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><button data-drupal-selector="edit-submit-turn" class="button js-form-submit form-submit btn-primary btn icon-before" type="submit" id="edit-submit-turn" value="Cerca" name=""><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span>
+Cerca</button></div>
+
+    
+</div>
+
+</form>
+
+    </div>
+    
+      <div class="view-content">
+        <div class="table-responsive">
+<table class="table table-hover table-striped">
+        <thead>
+    <tr>
+                                      <th id="view-field-hostel-table-column" class="views-field views-field-field-hostel" scope="col">Alberg</th>
+                                      <th id="view-field-start-end-dates-table-column" class="views-field views-field-field-start-end-dates" scope="col">Dates</th>
+                                      <th id="view-field-taxon-stay-type-table-column" class="views-field views-field-field-taxon-stay-type" scope="col">Tipus d’estada</th>
+          </tr>
+    </thead>
+    <tbody>
+      <tr>
+                                                                      <td headers="view-field-hostel-table-column" class="views-field views-field-field-hostel">Mas de la Coixa        </td>
+                                                                      <td headers="view-field-start-end-dates-table-column" class="views-field views-field-field-start-end-dates"><time datetime="2024-02-02T12:00:00Z">02/02/2024</time>
+ - <time datetime="2024-02-04T12:00:00Z">04/02/2024</time>
+        </td>
+                                                                      <td headers="view-field-taxon-stay-type-table-column" class="views-field views-field-field-taxon-stay-type">Cap de setmana - Temporada baixa        </td>
+          </tr>
+      <tr>
+                                                                      <td headers="view-field-hostel-table-column" class="views-field views-field-field-hostel">Mas de la Coixa        </td>
+                                                                      <td headers="view-field-start-end-dates-table-column" class="views-field views-field-field-start-end-dates"><time datetime="2024-02-23T12:00:00Z">23/02/2024</time>
+ - <time datetime="2024-02-25T12:00:00Z">25/02/2024</time>
+        </td>
+                                                                      <td headers="view-field-taxon-stay-type-table-column" class="views-field views-field-field-taxon-stay-type">Cap de setmana - Temporada baixa        </td>
+          </tr>
+      <tr>
+                                                                      <td headers="view-field-hostel-table-column" class="views-field views-field-field-hostel">Mas de la Coixa        </td>
+                                                                      <td headers="view-field-start-end-dates-table-column" class="views-field views-field-field-start-end-dates"><time datetime="2024-03-01T12:00:00Z">01/03/2024</time>
+ - <time datetime="2024-03-03T12:00:00Z">03/03/2024</time>
+        </td>
+                                                                      <td headers="view-field-taxon-stay-type-table-column" class="views-field views-field-field-taxon-stay-type">Cap de setmana - Temporada baixa        </td>
+          </tr>
+      <tr>
+                                                                      <td headers="view-field-hostel-table-column" class="views-field views-field-field-hostel">Mas de la Coixa        </td>
+                                                                      <td headers="view-field-start-end-dates-table-column" class="views-field views-field-field-start-end-dates"><time datetime="2024-03-08T12:00:00Z">08/03/2024</time>
+ - <time datetime="2024-03-10T12:00:00Z">10/03/2024</time>
+        </td>
+                                                                      <td headers="view-field-taxon-stay-type-table-column" class="views-field views-field-field-taxon-stay-type">Cap de setmana - Temporada baixa        </td>
+          </tr>
+      <tr>
+                                                                      <td headers="view-field-hostel-table-column" class="views-field views-field-field-hostel">Mas de la Coixa        </td>
+                                                                      <td headers="view-field-start-end-dates-table-column" class="views-field views-field-field-start-end-dates"><time datetime="2024-03-15T12:00:00Z">15/03/2024</time>
+ - <time datetime="2024-03-17T12:00:00Z">17/03/2024</time>
+        </td>
+                                                                      <td headers="view-field-taxon-stay-type-table-column" class="views-field views-field-field-taxon-stay-type">Cap de setmana - Temporada baixa        </td>
+          </tr>
+      <tr>
+                                                                      <td headers="view-field-hostel-table-column" class="views-field views-field-field-hostel">Mas de la Coixa        </td>
+                                                                      <td headers="view-field-start-end-dates-table-column" class="views-field views-field-field-start-end-dates"><time datetime="2024-03-22T12:00:00Z">22/03/2024</time>
+ - <time datetime="2024-03-24T12:00:00Z">24/03/2024</time>
+        </td>
+                                                                      <td headers="view-field-taxon-stay-type-table-column" class="views-field views-field-field-taxon-stay-type">Cap de setmana - Temporada baixa        </td>
+          </tr>
+      <tr>
+                                                                      <td headers="view-field-hostel-table-column" class="views-field views-field-field-hostel">Mas de la Coixa        </td>
+                                                                      <td headers="view-field-start-end-dates-table-column" class="views-field views-field-field-start-end-dates"><time datetime="2024-04-05T12:00:00Z">05/04/2024</time>
+ - <time datetime="2024-04-07T12:00:00Z">07/04/2024</time>
+        </td>
+                                                                      <td headers="view-field-taxon-stay-type-table-column" class="views-field views-field-field-taxon-stay-type">Cap de setmana - Temporada baixa        </td>
+          </tr>
+      <tr>
+                                                                      <td headers="view-field-hostel-table-column" class="views-field views-field-field-hostel">Mas de la Coixa        </td>
+                                                                      <td headers="view-field-start-end-dates-table-column" class="views-field views-field-field-start-end-dates"><time datetime="2024-04-12T12:00:00Z">12/04/2024</time>
+ - <time datetime="2024-04-14T12:00:00Z">14/04/2024</time>
+        </td>
+                                                                      <td headers="view-field-taxon-stay-type-table-column" class="views-field views-field-field-taxon-stay-type">Cap de setmana - Temporada baixa        </td>
+          </tr>
+      <tr>
+                                                                      <td headers="view-field-hostel-table-column" class="views-field views-field-field-hostel">Mas de la Coixa        </td>
+                                                                      <td headers="view-field-start-end-dates-table-column" class="views-field views-field-field-start-end-dates"><time datetime="2024-04-19T12:00:00Z">19/04/2024</time>
+ - <time datetime="2024-04-21T12:00:00Z">21/04/2024</time>
+        </td>
+                                                                      <td headers="view-field-taxon-stay-type-table-column" class="views-field views-field-field-taxon-stay-type">Cap de setmana - Temporada baixa        </td>
+          </tr>
+      <tr>
+                                                                      <td headers="view-field-hostel-table-column" class="views-field views-field-field-hostel">Mas de la Coixa        </td>
+                                                                      <td headers="view-field-start-end-dates-table-column" class="views-field views-field-field-start-end-dates"><time datetime="2024-05-03T12:00:00Z">03/05/2024</time>
+ - <time datetime="2024-05-05T12:00:00Z">05/05/2024</time>
+        </td>
+                                                                      <td headers="view-field-taxon-stay-type-table-column" class="views-field views-field-field-taxon-stay-type">Cap de setmana - Temporada baixa        </td>
+          </tr>
+      <tr>
+                                                                      <td headers="view-field-hostel-table-column" class="views-field views-field-field-hostel">Montsec-Mur        </td>
+                                                                      <td headers="view-field-start-end-dates-table-column" class="views-field views-field-field-start-end-dates"><time datetime="2024-03-01T12:00:00Z">01/03/2024</time>
+ - <time datetime="2024-03-03T12:00:00Z">03/03/2024</time>
+        </td>
+                                                                      <td headers="view-field-taxon-stay-type-table-column" class="views-field views-field-field-taxon-stay-type">Cap de setmana - Temporada baixa        </td>
+          </tr>
+      <tr>
+                                                                      <td headers="view-field-hostel-table-column" class="views-field views-field-field-hostel">Montsec-Mur        </td>
+                                                                      <td headers="view-field-start-end-dates-table-column" class="views-field views-field-field-start-end-dates"><time datetime="2024-03-08T12:00:00Z">08/03/2024</time>
+ - <time datetime="2024-03-10T12:00:00Z">10/03/2024</time>
+        </td>
+                                                                      <td headers="view-field-taxon-stay-type-table-column" class="views-field views-field-field-taxon-stay-type">Cap de setmana - Temporada baixa        </td>
+          </tr>
+    </tbody>
+</table>
+  </div>
+
+    </div>
+  
+        <nav class="pager-nav text-center" role="navigation" aria-labelledby="pagination-heading">
+    <h4 id="pagination-heading" class="visually-hidden">Paginació</h4>
+    <ul class="pagination js-pager__items">
+
+                    <li class="pager__item pager__item--first">
+          <a href="?field_hostel_target_id_verf=All&amp;field_taxon_stay_type_target_id=All&amp;field_start_end_dates_value=&amp;field_start_end_dates_end_value=&amp;page=0" title="Vés a la primera pàgina" rel="first">
+            <span class="visually-hidden">Primera pàgina</span>
+            <span aria-hidden="true">« Primer</span>
+          </a>
+        </li>
+      
+                    <li class="pager__item pager__item--previous">
+          <a href="?field_hostel_target_id_verf=All&amp;field_taxon_stay_type_target_id=All&amp;field_start_end_dates_value=&amp;field_start_end_dates_end_value=&amp;page=28" title="Vés a la pàgina anterior" rel="prev">
+            <span class="visually-hidden">Pàgina anterior</span>
+            <span aria-hidden="true">‹ Anterior</span>
+          </a>
+        </li>
+      
+                    <li class="pager__item">
+                                          <a href="?field_hostel_target_id_verf=All&amp;field_taxon_stay_type_target_id=All&amp;field_start_end_dates_value=&amp;field_start_end_dates_end_value=&amp;page=25" title="Go to page 26">
+            <span class="visually-hidden">
+              Pàgina
+            </span>26</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?field_hostel_target_id_verf=All&amp;field_taxon_stay_type_target_id=All&amp;field_start_end_dates_value=&amp;field_start_end_dates_end_value=&amp;page=26" title="Go to page 27">
+            <span class="visually-hidden">
+              Pàgina
+            </span>27</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?field_hostel_target_id_verf=All&amp;field_taxon_stay_type_target_id=All&amp;field_start_end_dates_value=&amp;field_start_end_dates_end_value=&amp;page=27" title="Go to page 28">
+            <span class="visually-hidden">
+              Pàgina
+            </span>28</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?field_hostel_target_id_verf=All&amp;field_taxon_stay_type_target_id=All&amp;field_start_end_dates_value=&amp;field_start_end_dates_end_value=&amp;page=28" title="Go to page 29">
+            <span class="visually-hidden">
+              Pàgina
+            </span>29</a>
+        </li>
+              <li class="pager__item is-active active">
+                                          <a href="?field_hostel_target_id_verf=All&amp;field_taxon_stay_type_target_id=All&amp;field_start_end_dates_value=&amp;field_start_end_dates_end_value=&amp;page=29" title="Pàgina actual">
+            <span class="visually-hidden">
+              Pàgina actual
+            </span>30</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?field_hostel_target_id_verf=All&amp;field_taxon_stay_type_target_id=All&amp;field_start_end_dates_value=&amp;field_start_end_dates_end_value=&amp;page=30" title="Go to page 31">
+            <span class="visually-hidden">
+              Pàgina
+            </span>31</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?field_hostel_target_id_verf=All&amp;field_taxon_stay_type_target_id=All&amp;field_start_end_dates_value=&amp;field_start_end_dates_end_value=&amp;page=31" title="Go to page 32">
+            <span class="visually-hidden">
+              Pàgina
+            </span>32</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?field_hostel_target_id_verf=All&amp;field_taxon_stay_type_target_id=All&amp;field_start_end_dates_value=&amp;field_start_end_dates_end_value=&amp;page=32" title="Go to page 33">
+            <span class="visually-hidden">
+              Pàgina
+            </span>33</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?field_hostel_target_id_verf=All&amp;field_taxon_stay_type_target_id=All&amp;field_start_end_dates_value=&amp;field_start_end_dates_end_value=&amp;page=33" title="Go to page 34">
+            <span class="visually-hidden">
+              Pàgina
+            </span>34</a>
+        </li>
+      
+                    <li class="pager__item pager__item--next">
+          <a href="?field_hostel_target_id_verf=All&amp;field_taxon_stay_type_target_id=All&amp;field_start_end_dates_value=&amp;field_start_end_dates_end_value=&amp;page=30" title="Vés a la pàgina següent" rel="next">
+            <span class="visually-hidden">Pàgina següent</span>
+            <span aria-hidden="true">Següent ›</span>
+          </a>
+        </li>
+      
+                  <li class="pager__item pager__item--last">
+        <a href="?field_hostel_target_id_verf=All&amp;field_taxon_stay_type_target_id=All&amp;field_start_end_dates_value=&amp;field_start_end_dates_end_value=&amp;page=38" title="Vés a la darrera pàgina" rel="last">
+          <span class="visually-hidden">Última pàgina</span>
+          <span aria-hidden="true">Darrer »</span>
+        </a>
+      </li>
+      
+    </ul>
+  </nav>
+
+          </div>
+</div>
+</div>
+      
+            </div>
+</div>
+          </div>
+  
+      <div class="field field--name-field-paragraphs-footer field--type-entity-reference-revisions field--label-hidden field--items">
+              <div class="field--item">
+
+  <div class="paragraph paragraph--type--paragraph paragraph--view-mode--default">
+                  </div>
+</div>
+          </div>
+  
+  </div>
+
+</article>
+
+  </div>
+
+              </div>
+                      </section>
+        </div>
+
+                      </div>
+    </div>
+  </div>
+
+  <div class="subfooter">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <p>Vols rebre les últimes novetats de la Xanascat?</p>
+          <span class="button">
+                        <a id=""
+                           href="http://xanascat.gencat.cat/ca/alta-butlleti">Subscriu-te al nostre butlletí!</a>
+                    </span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+      <footer class="footer container-fluid " role="contentinfo">
+      <div class="row">
+        <div class="container">
+          <div class="row">
+            <div class="footer_tab_top">
+              <div class="col-sm-4 col-md-3 hidden-xs">
+                  <nav role="navigation" aria-labelledby="block-mysubtheme-directea-menu" id="block-mysubtheme-directea">
+            
+    <h2 id="block-mysubtheme-directea-menu">Directe a</h2>
+    
+
+              
+      <ul class="menu menu--directe-a nav">
+                      <li class="first">
+                                        <a href="http://treballiaferssocials.gencat.cat/ca/agenciajoventut">Agència Catalana de la Joventut </a>
+              </li>
+                      <li>
+                                        <a href="http://treballiaferssocials.gencat.cat/ca/ambits_tematics/joventut/">Direcció General de Joventut </a>
+              </li>
+                      <li>
+                                        <a href="http://Jove.cat">Jove.cat </a>
+              </li>
+                      <li>
+                                        <a href="http://hihostels.com">Hostelling International </a>
+              </li>
+                      <li class="last">
+                                        <a href="http://reaj.com">REAJ</a>
+              </li>
+        </ul>
+  
+
+    
+  </nav>
+
+              </div>
+              <div class="col-xs-12 hidden-sm hidden-md hidden-lg hidden-xl">
+                  <nav role="navigation" aria-labelledby="block-directea-menu" id="block-directea">
+                      
+    <h2 class="visually-hidden" id="block-directea-menu">Directe a (mobile)</h2>
+    
+
+              
+    <a href="" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><h2>Directe a <span class="caret"></span></h2></a>
+      <ul class="menu menu--directe-a nav dropdown-menu">
+                        <li>
+        <a href="http://treballiaferssocials.gencat.cat/ca/agenciajoventut">Agència Catalana de la Joventut </a>
+                  </li>
+                        <li>
+        <a href="http://treballiaferssocials.gencat.cat/ca/ambits_tematics/joventut/">Direcció General de Joventut </a>
+                  </li>
+                        <li>
+        <a href="http://Jove.cat">Jove.cat </a>
+                  </li>
+                        <li>
+        <a href="http://hihostels.com">Hostelling International </a>
+                  </li>
+                        <li>
+        <a href="http://reaj.com">REAJ</a>
+                  </li>
+        </ul>
+  
+
+    
+  </nav>
+
+              </div>
+              <div class="col-sm-4 col-md-3 col-md-offset-1 hidden-xs">
+                  <nav role="navigation" aria-labelledby="block-mysubtheme-websdinteres-menu" id="block-mysubtheme-websdinteres">
+            
+    <h2 id="block-mysubtheme-websdinteres-menu">Webs d&#039;interès</h2>
+    
+
+              
+      <ul class="menu menu--webs-d-interes nav">
+                      <li class="first">
+                                        <a href="http://gencat.cat">gencat.cat</a>
+              </li>
+                      <li>
+                                        <a href="http://govern.cat">govern.cat</a>
+              </li>
+                      <li>
+                                        <a href="http://carnetjove.cat">Carnet Jove de Catalunya</a>
+              </li>
+                      <li>
+                                        <a href="http://ejoventut.gencat.cat/ca/">E-joventut</a>
+              </li>
+                      <li>
+                                        <a href="http://ics.gencat.cat/ca/inici/">Institut Català de la Salut (ICS)</a>
+              </li>
+                      <li>
+                                        <a href="http://www.meteo.cat/">Meteocat</a>
+              </li>
+                      <li class="last">
+                                        <a href="http://transit.gencat.cat/ca/inici/">Trànsit</a>
+              </li>
+        </ul>
+  
+
+    
+  </nav>
+
+                  <nav role="navigation" aria-labelledby="block-mysubtheme-ajuda-menu" id="block-mysubtheme-ajuda">
+            
+    <h2 id="block-mysubtheme-ajuda-menu">Ajuda</h2>
+    
+
+              
+      <ul class="menu menu--ajuda nav">
+                      <li class="first">
+                                        <a href="/ca/accessibilitat" data-drupal-link-system-path="node/5689">Accessibilitat</a>
+              </li>
+                      <li>
+                                        <a href="/ca/sitemap" data-drupal-link-system-path="sitemap">Mapa web</a>
+              </li>
+                      <li class="last">
+                                        <a href="http://web.gencat.cat/ca/menu-ajuda/ajuda/sobre_gencat/">Sobre Gencat</a>
+              </li>
+        </ul>
+  
+
+    
+  </nav>
+
+              </div>
+              <div class="col-xs-12 hidden-sm hidden-md hidden-lg hidden-xl">
+                  <nav role="navigation" aria-labelledby="block-ajuda-menu" id="block-ajuda">
+                      
+    <h2 class="visually-hidden" id="block-ajuda-menu">Ajuda (mobile)</h2>
+    
+
+              
+    <a href="" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><h2>Ajuda <span class="caret"></span></h2></a>
+      <ul class="menu menu--ajuda nav dropdown-menu">
+                        <li>
+        <a href="/ca/accessibilitat" data-drupal-link-system-path="node/5689">Accessibilitat</a>
+                  </li>
+                        <li>
+        <a href="/ca/sitemap" data-drupal-link-system-path="sitemap">Mapa web</a>
+                  </li>
+                        <li>
+        <a href="http://web.gencat.cat/ca/menu-ajuda/ajuda/sobre_gencat/">Sobre Gencat</a>
+                  </li>
+        </ul>
+  
+
+    
+  </nav>
+
+              </div>
+              <div class="col-xs-12 hidden-sm hidden-md hidden-lg hidden-xl">
+                  <nav role="navigation" aria-labelledby="block-websdinteres-menu" id="block-websdinteres">
+                      
+    <h2 class="visually-hidden" id="block-websdinteres-menu">Webs d&#039;interès (mobile)</h2>
+    
+
+              
+    <a href="" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><h2>Webs d'interès <span class="caret"></span></h2></a>
+      <ul class="menu menu--webs-d-interes nav dropdown-menu">
+                        <li>
+        <a href="http://gencat.cat">gencat.cat</a>
+                  </li>
+                        <li>
+        <a href="http://govern.cat">govern.cat</a>
+                  </li>
+                        <li>
+        <a href="http://carnetjove.cat">Carnet Jove de Catalunya</a>
+                  </li>
+                        <li>
+        <a href="http://ejoventut.gencat.cat/ca/">E-joventut</a>
+                  </li>
+                        <li>
+        <a href="http://ics.gencat.cat/ca/inici/">Institut Català de la Salut (ICS)</a>
+                  </li>
+                        <li>
+        <a href="http://www.meteo.cat/">Meteocat</a>
+                  </li>
+                        <li>
+        <a href="http://transit.gencat.cat/ca/inici/">Trànsit</a>
+                  </li>
+        </ul>
+  
+
+    
+  </nav>
+
+              </div>
+              <div class="col-sm-4 col-md-4 col-md-offset-1 hidden-xs">
+                  <nav role="navigation" aria-labelledby="block-peu-menu" id="block-peu">
+            
+    <h2 id="block-peu-menu">Connecta</h2>
+    
+
+              
+      <ul class="menu menu--footer nav">
+                      <li class="first">
+                                        <a href="/ca/preguntes-frequents" data-drupal-link-system-path="node/22">Preguntes freqüents</a>
+              </li>
+                      <li class="last">
+                                        <a href="/ca/qui-som/contacta-amb-nosaltres" data-drupal-link-system-path="node/14">Contacta amb nosaltres</a>
+              </li>
+        </ul>
+  
+
+    
+  </nav>
+
+                <div class="connecta-inner">
+                                                                                                                                                                                                                                                                                                                                                      <!--  -->
+                  <div class="col-md-12 clearfix-md menu-peu">
+
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-12 hidden-sm hidden-md hidden-lg hidden-xl">
+                  <nav role="navigation" aria-labelledby="block-peu-2-menu" id="block-peu-2">
+                      
+    <h2 class="visually-hidden" id="block-peu-2-menu">Connecta (mobile)</h2>
+    
+
+              
+    <a href="" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><h2>Connecta <span class="caret"></span></h2></a>
+      <ul class="menu menu--footer nav dropdown-menu">
+                        <li>
+        <a href="/ca/preguntes-frequents" data-drupal-link-system-path="node/22">Preguntes freqüents</a>
+                  </li>
+                        <li>
+        <a href="/ca/qui-som/contacta-amb-nosaltres" data-drupal-link-system-path="node/14">Contacta amb nosaltres</a>
+                  </li>
+        </ul>
+  
+
+    
+  </nav>
+
+              </div>
+              <div class="connecta col-xs-12 col-sm-4 col-md-4 col-md-offset-1">
+                <div class="connecta-inner">
+                  <ul class="llistat_xarxes_socials col-md-12 clearfix-md">
+                    <li>
+                      <a title="Twitter de Xanascat" target="_blank" class="twitter"
+                         href="https://twitter.com/xanascat">
+                        <img alt="Twitter de Xanascat"
+                             src="/themes/custom/mysubtheme/images/icones/NG_ico_twitter.png_196546587.png">
+                      </a>
+                    </li>
+                    <li>
+                      <a title="Facebook de Xanascat" target="_blank" class="facebook"
+                         href="https://www.facebook.com/xanascat">
+                        <img alt="Facebook de Xanascat"
+                             src="/themes/custom/mysubtheme/images/icones/NG_ico_facebook.png_196546587.png">
+                      </a>
+                    </li>
+                    <li>
+                      <a title="Instagram de Xanascat" target="_blank" class="instagram"
+                         href="https://www.instagram.com/albergs_xanascat/">
+                        <img alt="Instagram de Xanascat"
+                             src="/themes/custom/mysubtheme/images/icones/NG_ico_instagram.png_196546587.png">
+                      </a>
+                    </li>
+                    <li>
+                      <a title="Youtube de Xanascat" target="_blank" class="youtube"
+                         href="https://www.youtube.com/user/Xanascatcat">
+                        <img alt="Youtube de Xanascat"
+                             src="/themes/custom/mysubtheme/images/icones/NG_ico_youtube.png_196546587.png">
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="footer_tab_bot col-sm-12">
+              <div class="avis_legal">
+                <div class="hidden-xs">
+                  <div class="col-sm-2 col-md-2 col-lg-2" id="peuImatge">
+                    <a accesskey="5" target="_blank" title="gencat.cat" href="http://www.gencat.cat">
+                      <img src="/themes/custom/mysubtheme/logo_generalitat_gris.png_679097835.png" width="101"
+                           height="27" alt="gencat.cat" class="adaptImage"></a>
+                  </div>
+                  <div class="col-sm-10 col-md-10 col-lg-10" id="peuAvis">
+                    <p><a title="Avis legal" href="/ca/avis-legal" target="_self">Avís
+                        legal</a>: D’acord amb l’article 17.1 de la Llei 19/2014, la ©Generalitat de Catalunya permet la
+                      reutilització dels continguts i de les dades sempre que se'n citi la font i la data
+                      d'actualització i que no es desnaturalitzi la informació (article 8 de la Llei 37/2007) i també
+                      que no es contradigui amb una llicència específica.</p>
+                  </div>
+                </div>
+                <div class="visible-xs">
+                  <p><a title="Avis legal" href="/ca/avis-legal" target="_self">Avís
+                      legal</a>: D’acord amb l’article 17.1 de la Llei 19/2014, la ©Generalitat de Catalunya permet la
+                    reutilització dels continguts i de les dades sempre que se'n citi la font i la data d'actualització
+                    i que no es desnaturalitzi la informació (article 8 de la Llei 37/2007) i també que no es
+                    contradigui amb una llicència específica.</p>
+                </div>
+                <div class="visible-xs" id="idiomes-peu"></div>
+                <div class="fi_peu visible-xs">
+                  <a title="gencat.cat" target="_blank" href="http://www.gencat.cat">
+                    <img src="/themes/custom/mysubtheme/logo_generalitat_gris.png_679097835.png" width="101" height="27"
+                         alt="gencat.cat" class="checkImage">
+                  </a>
+                  <p><a class="torna_amunt pull-right" title="Torna amunt">Torna amunt</a></p>
+                </div>
+                <a class="torna_amunt pull-right hidden-xs" title="Torna amunt">Torna amunt</a>
+              </div>
+            </div>
+
+                        
+            <script>
+                            smartsupp('language', 'ca');
+            </script>
+
+          </div>
+        </div>
+      </div>
+    </footer>
+  
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"ca\/","currentPath":"node\/10942","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"ca","currentQuery":{"field_hostel_target_id_verf":"All","field_taxon_stay_type_target_id":"All","page":"29"}},"pluralDelimiter":"\u0003","jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":1}}},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"simple_popup_blocks":{"settings":[{"pid":"1","identifier":"block-webform-2","type":"0","css_selector":"1","layout":"4","visit_counts":"0","overlay":"1","escape":"1","trigger_method":"1","trigger_selector":"#newsletter","delay":"0","minimize":"0","close":"1","width":"500","status":"1"},{"pid":"2","identifier":"block-mysubtheme-webform-2","type":"0","css_selector":"1","layout":"4","visit_counts":"0","overlay":"1","escape":"1","trigger_method":"1","trigger_selector":"#newsletter","delay":"0","minimize":"0","close":"1","width":"500","status":"1"}]},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":true,"extNofollow":true,"extFollowNoOverride":true,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)"}},"eu_cookie_compliance":{"popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":true,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info\u0022\u003E\n    \u003Cdiv class =\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n            \u003Ch2\u003EPer poder millorar els nostres serveis\u00a0utilitzem galetes pr\u00f2pies i de\u00a0tercers. Si continueu\u00a0navegant, considerem que n\u0027accepteu\u00a0la utilitzaci\u00f3.\u003C\/h2\u003E\n\n        \u003C\/div\u003E\n        \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-agree-button\u0022\u003EAccepto\u003C\/button\u003E\n                    \u003C\/div\u003E\n    \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info\u0022\u003E\n    \u003Cdiv class =\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n            \n        \u003C\/div\u003E\n        \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-agree-button\u0022\u003EAccepto\u003C\/button\u003E\n                    \u003C\/div\u003E\n    \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/ca","popup_link_new_window":true,"popup_position":true,"popup_language":"ca","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"disagree_do_not_show_popup":false,"method":"default","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"better_exposed_filters":{"datepicker":true,"slider":false,"settings":[],"datepicker_options":[]},"ajaxTrustedUrl":{"\/ca\/programes\/vacances-en-familia\/primera-convocatoria-2024":true,"\/ca\/search\/node":true},"user":{"uid":0,"permissionsHash":"6fbeb544d4e367a0d1b753bc41f3909ccccda191daceb7ad580a85cf47195be7"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.2.1"></script>
+<script src="/core/assets/vendor/underscore/underscore-min.js?v=1.8.3"></script>
+<script src="/core/assets/vendor/jquery/jquery-extend-3.4.0.js?v=3.2.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.0"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.7.0"></script>
+<script src="/sites/default/files/languages/ca_GSJmsLc09grf4TJnjquGEdLdSiJ9zLg8aiYpAt_mQMw.js?s1w2om"></script>
+<script src="/core/misc/drupal.js?v=8.7.0"></script>
+<script src="/core/misc/drupal.init.js?v=8.7.0"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-1-7-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/tabbable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=1.12.1"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/modules/contrib/addtoany/js/addtoany.js?v=8.7.0"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=8.7.0"></script>
+<script src="/modules/contrib/simple_popup_blocks/js/simple_popup_blocks.js?v=8.7.0"></script>
+<script src="/themes/custom/mysubtheme/bootstrap/assets/javascripts/bootstrap/affix.js?s1w2om"></script>
+<script src="/themes/custom/mysubtheme/bootstrap/assets/javascripts/bootstrap/alert.js?s1w2om"></script>
+<script src="/themes/custom/mysubtheme/bootstrap/assets/javascripts/bootstrap/button.js?s1w2om"></script>
+<script src="/themes/custom/mysubtheme/bootstrap/assets/javascripts/bootstrap/carousel.js?s1w2om"></script>
+<script src="/themes/custom/mysubtheme/bootstrap/assets/javascripts/bootstrap/collapse.js?s1w2om"></script>
+<script src="/themes/custom/mysubtheme/bootstrap/assets/javascripts/bootstrap/dropdown.js?s1w2om"></script>
+<script src="/themes/custom/mysubtheme/bootstrap/assets/javascripts/bootstrap/modal.js?s1w2om"></script>
+<script src="/themes/custom/mysubtheme/bootstrap/assets/javascripts/bootstrap/tooltip.js?s1w2om"></script>
+<script src="/themes/custom/mysubtheme/bootstrap/assets/javascripts/bootstrap/popover.js?s1w2om"></script>
+<script src="/themes/custom/mysubtheme/bootstrap/assets/javascripts/bootstrap/scrollspy.js?s1w2om"></script>
+<script src="/themes/custom/mysubtheme/bootstrap/assets/javascripts/bootstrap/tab.js?s1w2om"></script>
+<script src="/themes/custom/mysubtheme/bootstrap/assets/javascripts/bootstrap/transition.js?s1w2om"></script>
+<script src="/themes/custom/mysubtheme/js/main.js?s1w2om"></script>
+<script src="/themes/custom/mysubtheme/js/twitter.js?s1w2om"></script>
+<script src="/themes/custom/mysubtheme/libraries/bootstrap-hover-dropdown/bootstrap-hover-dropdown.js?s1w2om"></script>
+<script src="/themes/contrib/bootstrap/js/drupal.bootstrap.js?s1w2om"></script>
+<script src="/themes/contrib/bootstrap/js/attributes.js?s1w2om"></script>
+<script src="/themes/contrib/bootstrap/js/theme.js?s1w2om"></script>
+<script src="/modules/contrib/extlink/extlink.js?v=8.7.0"></script>
+<script src="/core/misc/states.js?v=8.7.0"></script>
+<script src="/themes/contrib/bootstrap/js/misc/states.js?s1w2om"></script>
+<script src="/modules/contrib/webform/js/webform.states.js?v=8.7.0"></script>
+<script src="/modules/contrib/webform/modules/webform_bootstrap/js/webform_bootstrap.states.js?v=8.7.0"></script>
+<script src="/core/assets/vendor/jquery.cookie/jquery.cookie.min.js?v=1.4.1"></script>
+<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?v=1"></script>
+<script src="/themes/contrib/bootstrap/js/popover.js?s1w2om"></script>
+<script src="/themes/contrib/bootstrap/js/tooltip.js?s1w2om"></script>
+<script src="/modules/contrib/better_exposed_filters/js/better_exposed_filters.js?v=3.x"></script>
+<script src="/core/modules/locale/locale.datepicker.js?v=8.7.0"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/datepicker-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/mouse-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/slider-min.js?v=1.12.1"></script>
+<script src="/modules/contrib/better_exposed_filters/js/bef_datepickers.js?v=3.x"></script>
+<script src="/modules/custom/custom_datepicker/custom_datepicker/js/custom-datepicker.js?v=1.x"></script>
+
+  </body>
+</html>
